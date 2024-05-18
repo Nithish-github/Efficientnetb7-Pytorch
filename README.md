@@ -1,4 +1,4 @@
-# Efficientnetb7-Pytroch- Conser-vision Practice Area: Image Classification <img src="images/drivendata-logo.58f94dd407ef.svg" alt="Driven Data" width="200" style="margin-left: 10px;"/>
+# Efficientnetb7-Pytorch- Conser-vision Practice Area: Image Classification <img src="images/drivendata-logo.58f94dd407ef.svg" alt="Driven Data" width="200" style="margin-left: 10px;"/>
 
 
 # What is Efficientnet ?
